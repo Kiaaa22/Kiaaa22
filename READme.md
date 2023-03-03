@@ -17,7 +17,7 @@
 ### Contact & Social Media :
  <a href="mailto:zaskiakiaa802@gmail.com" target="_blank"><img alt="mail" src="https://img.shields.io/badge/-gmail:%20zaskiakiaa802@gmail.com-ea4335?&style=for-the-badge&logo=gmail&logoColor=white" /></a><br>
 <a href="https://www.linkedin.com/in/zaskia-rizky-raichand-465ba4263/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn:%20Zaskia%20Rizky%20Raichand-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <br>
-<a href="https://www.instagram.com/kiaa.ewwe/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram:%20@kiaa.ewww-E4406F?&style=for-the-badge&logo=Instagram&logoColor=white" /></a><br>
+<a href="https://www.instagram.com/kiaa.ewww/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram:%20@kiaa.ewww-E4406F?&style=for-the-badge&logo=Instagram&logoColor=white" /></a><br>
 
 <p align="center"> 
   Visitor count<br>
